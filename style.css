@@ -1,0 +1,31 @@
+.line
+{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto; 
+}
+h1
+{
+    font-size: 40px;
+    font-weight: 300;
+    font-family:'Courier New', Courier, monospace;
+}
+#apps
+{
+    background-color: aliceblue;
+}
+#games
+{
+    background-color: lightcoral;
+}
+#chatbots
+{
+    background-color: aliceblue;
+}
+.carousel-inner p
+{
+    margin-top: 25px;
+    color: white;
+    font-size: 20px;
+}
